@@ -65,6 +65,7 @@ El dashboard muestra:
 🔗 **Ver Dashboard en Tableau Public:**  
 👉 https://public.tableau.com/app/profile/pedro.alvarez.martinez/viz/DashboardSpotifyPedroAlvarez/DASHBOARD
 
+🔗 **Demo en vivo:** [Ver la app en Streamlit](https://bekhnyemt8vjehwpdfpyoj.streamlit.app)
 
 
 ## 🚀 Correr la demo localmente
