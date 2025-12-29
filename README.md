@@ -48,10 +48,24 @@ El dashboard muestra:
 - Géneros clave generados con TF-IDF
 - Clusters de similitud (KMeans, calculado offline)
 
-- 🔗 **Ver Dashboard en Tableau Public:**  
+- ## 📊 Dashboard de análisis en Tableau
+
+Se desarrolló un **dashboard interactivo en Tableau** para explorar el dataset usado por el recomendador.  
+El dashboard muestra:
+
+- Popularidad de canciones y artistas  
+- Alcance del artista (seguidores)  
+- Géneros clave generados con TF-IDF  
+- Clusters de similitud (KMeans, calculado offline)
+
+### 👀 Mini preview
+
+![Vista del dashboard](DashboardSS.png)
+
+🔗 **Ver Dashboard en Tableau Public:**  
 👉 https://public.tableau.com/app/profile/pedro.alvarez.martinez/viz/DashboardSpotifyPedroAlvarez/DASHBOARD
 
---
+
 
 ## 🚀 Correr la demo localmente
 
